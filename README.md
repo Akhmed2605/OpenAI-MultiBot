@@ -39,3 +39,6 @@ Ein kompaktes Python-Projekt, das Telegram- und Discord-Bots mit OpenAI verbinde
 - Caching oder Rate-Limiting ergänzen.
 - Weitere Befehle integrieren (z. B. Bildgenerierung).
 - Bot auf einem Server oder einer serverlosen Plattform deployen.
+## 📸 Screenshot
+
+![Discord Bot Beispiel](Discord-Bot.png)
